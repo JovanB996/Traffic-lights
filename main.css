@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    margin: 50px auto;
+}
+.content-holder{
+    height: 380px;
+    width: 140px;
+    box-shadow: 0 0 8px;
+    border-radius: 6px;
+    margin: auto;
+}
+.lights{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #cbcbcb;
+    margin: 8px auto;
+}
